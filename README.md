@@ -44,6 +44,7 @@ Importance of descriptive statistics in stock analysis
 Building interactive dashboards using Streamlit
 
 8. How to Run the App?
+   
 pip install -r requirements.txt
 streamlit run app.py
 
