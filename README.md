@@ -45,7 +45,7 @@ Building interactive dashboards using Streamlit
 
 8. How to Run the App?
    
-  pip install -r requirements.txt
-  streamlit run app.py
+    1.pip install -r requirements.txt
+    2.streamlit run app.py
 
 This project strengthened my skills in data analysis, visualization, and Python-based web apps.
